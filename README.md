@@ -28,6 +28,8 @@ Kafka will be available on:
 - `localhost:9092` (host access)
 - `kafka:9092` (inside Docker network)
 
+Important: python, kafka-python and flask are needed to run the project, can be added to the docker file, but I already had them locally so did not bother with that.
+
 ---
 
 ## Running the Simulation (SSH Attack Generator)
